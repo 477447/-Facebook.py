@@ -37,5 +37,10 @@ index 578568a..e0d5edc 100644
 
 +chess-in-Facebook.
 
+kommet-number-of-kommet-subscribers-kommet-needed
+kommet-from-kommet-100-kommet-to-1000
+kommet-robert.Bondikyan10
+
+
 +
 
